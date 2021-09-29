@@ -22,7 +22,7 @@
  * Contribuciones:
  *
  * Dario Correal - Version inicial
- """
+"""
 
 
 import config as cf
